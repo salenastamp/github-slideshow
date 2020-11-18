@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The master has failed more times than the beginner has tried!
 Use the left arrow to go back!
